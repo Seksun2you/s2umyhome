@@ -3,7 +3,9 @@
   <title>Zent</title>
   <head>
 <body>
-<h1>HELLO WORLD</h1>
+<?php
+echo "My first PHP script!";
+?>
 
 
 </body>
